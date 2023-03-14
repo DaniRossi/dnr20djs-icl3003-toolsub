@@ -1,3 +1,13 @@
+| READ ME |
+
+Designed for use on Ubuntu 20.04
+
+*************
+
+Microsoft abandoned Teams Ubuntu previews builds, script will fail if launched after 02/23
+
+*************
+
 ﻿How to start the script:
 
 Method 1:
